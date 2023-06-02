@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi, I'm Will
+
+I'm a BSc Ethical Hacking student at Abertay Uni, interested in all kinds of things. I have many open-source projects I work on
 
 <!--
-**Will-Banksy/Will-Banksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+TODO Maybe add more to this, idk what to say really. The below stuff is what Github provided by default, maybe can use some of them
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
