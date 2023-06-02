@@ -2,6 +2,8 @@
 
 I'm a BSc Ethical Hacking student at Abertay Uni, interested in all kinds of things. I have many open-source projects I work on
 
+Favourite programming language is Rust 🦀 but I work with and want to learn many more
+
 <!--
 TODO Maybe add more to this, idk what to say really. The below stuff is what Github provided by default, maybe can use some of them
 
