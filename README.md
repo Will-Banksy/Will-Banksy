@@ -4,7 +4,7 @@ I'm a BSc Ethical Hacking student at Abertay Uni, interested in all kinds of thi
 
 Favourite programming language is Rust 🦀 but worked with and want to learn many more. I've done projects in many languages, notably HoneyScoop in C#, tower initially in LLVM IR, some classical cryptography tools in Java, and I've written a lot of C++, often using Qt for gui
 
-- 🔭 I’m currently working on my programming language tower and D&D tool druid_5e_manager
+- 🔭 I’m currently working on my programming language tower and D&D tool druid_5e_manager, in the free time around studies
 - 🌱 I’m currently learning about digital forensics and IoT
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Rust is memory safe
