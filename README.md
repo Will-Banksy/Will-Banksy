@@ -6,7 +6,6 @@ Favourite programming language is Rust 🦀 but worked with and want to learn ma
 
 - 🔭 I’m currently working on my programming language tower and D&D tool druid_5e_manager, in the free time around studies
 - 🌱 I’m currently learning about digital forensics and IoT
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: Rust is memory safe
 
 <!--
