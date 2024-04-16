@@ -4,8 +4,8 @@ I'm a BSc Ethical Hacking student at Abertay Uni, interested in all kinds of thi
 
 Favourite programming language is Rust 🦀 but worked with and want to learn many more. I've done projects in many languages, notably HoneyScoop in C#, tower initially in LLVM IR, some classical cryptography tools in Java, and I've written a lot of C++, often using Qt for gui
 
-- 🔭 I’m currently working on my honours project (repo: searchlight) and IoT & Cloud project (repos: done_server, done_rpi_client, gpio_drv)
-- 🌱 I’m currently learning about digital forensics and IoT
+- 🔭 I’m currently working on my honours project (repo: searchlight) and dissertation
+- 🌱 I’m also currently learning about human-centred security
 - ⚡ Fun fact: Rust is memory safe
 
 <!--
