@@ -1,11 +1,11 @@
 ### Hi, I'm Will
 
-I'm a BSc Ethical Hacking student at Abertay Uni, interested in all kinds of things. I have many open-source projects I work on
+I'm a soon-to-graduate BSc Ethical Hacking student at Abertay Uni, interested in all kinds of things. I have many open-source personal projects I work on
 
-Favourite programming language is Rust 🦀 but worked with and want to learn many more. I've done projects in many languages, notably HoneyScoop in C#, tower initially in LLVM IR, some classical cryptography tools in Java, and I've written a lot of C++, often using Qt for gui
+Favourite programming language is Rust 🦀 but worked with and want to learn many more. I've done projects in many languages, notably searchlight in Rust, HoneyScoop in C#, tower initially in LLVM IR, some classical cryptography tools and pixel art editor in Java, and I've written a lot of C++, often using Qt for gui, such as in QPix (rewrite of my java pixel editor in C++)
 
-- 🔭 I’m currently working on my honours project (repo: searchlight) and dissertation
-- 🌱 I’m also currently learning about human-centred security
+- 🔭 I’m currently working on QPix (and any other projects I feel like)
+- 🌱 I’m currently learning C++ and Qt again
 - ⚡ Fun fact: Rust is memory safe
 
 <!--
