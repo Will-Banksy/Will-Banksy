@@ -2,7 +2,7 @@
 
 I'm a soon-to-graduate BSc Ethical Hacking student at Abertay Uni, interested in all kinds of things. I have many open-source personal projects I work on
 
-Favourite programming language is Rust 🦀 but I've worked with and want to learn many more. I've done projects in many languages, e.g. C#, LLVM IR, Java, Kotlin, C/C++, PHP, Python, etc.
+Favourite programming language is Rust 🦀 but I've worked with and want to learn many more. I've done projects in many languages, e.g. C#, LLVM IR, Java, Kotlin, C/C++, PHP, Python, etc., but I'm particularly strong in Rust & C/C++.
 
 - 🔭 I’m currently working on QPix (and any other projects I feel like)
 - 🌱 I’m currently learning C++ and Qt again
