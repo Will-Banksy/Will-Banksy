@@ -12,7 +12,7 @@ Some projects I've done/am doing:
 
 | Name        | Description                                                                                            | Technologies             | State   |
 | ----------- | ------------------------------------------------------------------------------------------------------ | ------------------------ | ------- |
-| searchlight | File carving/recovery tool that handles some fragmented files written as my BSc honours project        | Rust                     | Done    |
+| searchlight | File carving/recovery tool that handles some fragmented files written as my BSc honours project        | Rust, Vulkan compute     | Done    |
 | stoneblock  | File carving test data generator for testing searchlight                                               | Rust                     | Done    |
 | tower       | Custom, very WIP stack-based programming language inspired by Factor                                   | Rust, EBNF grammar*      | WIP     |
 | QPix        | WIP pixel art editor                                                                                   | C++, Qt                  | WIP     |
