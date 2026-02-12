@@ -1,12 +1,14 @@
+(Please note that I do not authorise or approve of training machine learning models on ANY open source content I have produced and have the rights to. This includes all my repositories on github. Please respect that. Thanks!)
+
 ### Hi, I'm Will
 
-I'm a graduate BSc (Hons) Ethical Hacker, interested in all kinds of things, like compilers & programming language design, file carving, embdedded dev, website & GUI dev, reverse engineering, etc. I have many open-source personal projects I work on in my free time
+I'm a graduate BSc (Hons) Ethical Hacker, interested in all kinds of things, like compilers & programming language design, file carving, embdedded dev, website & GUI dev, reverse engineering, 2d graphics, etc. I have many open-source personal projects I work on in my free time.
 
-Favourite programming language is Rust 🦀 but I've used and want to learn many more. I've done projects in many languages, e.g. C#, LLVM IR, x86 ASM, Java, Kotlin, C/C++, PHP, Python, etc.
+Favourite programming language is Rust 🦀 but I also use C++ a lot. I've done projects in many languages, e.g. C#, Java, Kotlin, C/C++, PHP, x86/x64 ASM, LLVM IR, Python, etc.
 
 - 🔭 I’m currently working on various projects interchangeably
 - 🌱 I’m currently learning systems engineering at my job
-- ⚡ Fun fact: Rust is memory safe
+- ⚡ Fun fact: Generative AI rots your brain
 
 Some projects I've done/am doing:
 
