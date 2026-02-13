@@ -8,7 +8,6 @@ Favourite programming language is Rust 🦀 but I also use C++ a lot. I've done 
 
 - 🔭 I’m currently working on various projects interchangeably
 - 🌱 I’m currently learning systems engineering at my job
-- ⚡ Fun fact: Generative AI rots your brain
 
 Some projects I've done/am doing:
 
